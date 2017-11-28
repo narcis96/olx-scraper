@@ -1,0 +1,993 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/gemenenarcis/Documents/olx-scraper/main.py
+0 Auto, moto si ambarcatiuni
+1 Imobiliare
+2 Locuri de munca
+3 Electronice si electrocasnice
+4 Moda si frumusete
+5 Casa si gradina
+6 Mama si copilul
+7 Sport, timp liber, arta
+8 Animale de companie
+9 Agro si industrie
+10 Servicii, afaceri, echipamente firme
+<div class="subcategories-list clr" data-subcategory="5" id="bottom5" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="5" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/"><strong>Vezi toate anunturile</strong></a> în Auto, moto si ambarcatiuni				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="84" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme/">
+<span class="block link category-name">
+<span>Autoturisme</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="1295" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoutilitare/">
+<span class="block link category-name">
+<span>Autoutilitare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="85" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/camioane-utilaje-rulote-remorci/">
+<span class="block link category-name">
+<span>Camioane - Rulote - Remorci</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="81" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/motociclete-scutere-atv/">
+<span class="block link category-name">
+<span>Motociclete - Scutere - ATV</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="82" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/piese-accesorii/">
+<span class="block link category-name">
+<span>Piese - Accesorii</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-5 inlblk tdnone icon-link" data-category-id="5" data-id="785" href="https://www.olx.ro/auto-masini-moto-ambarcatiuni/ambarcatiuni/">
+<span class="block link category-name">
+<span>Ambarcatiuni</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-maincategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="967" href="https://www.olx.ro/electronice-si-electrocasnice/gps-navigatie/">
+<span class="block link category-name">
+<span>GPS si sisteme de navigatie</span>
+</span>
+<span class="color-1 block small">în Electronice si electrocasnice</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="897" href="https://www.olx.ro/servicii-afaceri-colaborari/servicii-auto-transporturi/">
+<span class="block link category-name">
+<span>Servicii Auto - Transporturi</span>
+</span>
+<span class="color-1 block small">în Servicii, afaceri, echipamente firme</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1185" href="https://www.olx.ro/anunturi-agricole/utilaje-agricole/">
+<span class="block link category-name">
+<span>Utilaje agricole si industriale</span>
+</span>
+<span class="color-1 block small">în Agro si industrie</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="3" id="bottom3" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="3" href="https://www.olx.ro/imobiliare/"><strong>Vezi toate anunturile</strong></a> în Imobiliare				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="907" href="https://www.olx.ro/imobiliare/apartamente-garsoniere-de-vanzare/">
+<span class="block link category-name">
+<span>Apartamente - Garsoniere de vanzare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="909" href="https://www.olx.ro/imobiliare/apartamente-garsoniere-de-inchiriat/">
+<span class="block link category-name">
+<span>Apartamente - Garsoniere de inchiriat</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="911" href="https://www.olx.ro/imobiliare/case-de-vanzare/">
+<span class="block link category-name">
+<span>Case de vanzare</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="913" href="https://www.olx.ro/imobiliare/case-de-inchiriat/">
+<span class="block link category-name">
+<span>Case de inchiriat</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="709" href="https://www.olx.ro/imobiliare/terenuri/">
+<span class="block link category-name">
+<span>Terenuri</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="710" href="https://www.olx.ro/imobiliare/birouri-spatii-comerciale/">
+<span class="block link category-name">
+<span>Birouri - Spatii comerciale</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="915" href="https://www.olx.ro/imobiliare/schimburi-imobiliare/">
+<span class="block link category-name">
+<span>Schimburi Imobiliare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="1235" href="https://www.olx.ro/imobiliare/cazare-turism/">
+<span class="block link category-name">
+<span>Cazare - Turism</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="745" href="https://www.olx.ro/imobiliare/alte-proprietati/">
+<span class="block link category-name">
+<span>Alte proprietati</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="4" id="bottom4" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="4" href="https://www.olx.ro/locuri-de-munca/"><strong>Vezi toate anunturile</strong></a> în Locuri de munca				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="62" href="https://www.olx.ro/locuri-de-munca/vanzari/">
+<span class="block link category-name">
+<span>Agenti - consultanti vanzari</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1335" href="https://www.olx.ro/locuri-de-munca/agricultura-zootehnie/">
+<span class="block link category-name">
+<span>Agricultura - Zootehnie</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1311" href="https://www.olx.ro/locuri-de-munca/bone-menajere/">
+<span class="block link category-name">
+<span>Bone - Menajere</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1323" href="https://www.olx.ro/locuri-de-munca/call-center-suport-clienti/">
+<span class="block link category-name">
+<span>Call center - Suport clienti</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1317" href="https://www.olx.ro/locuri-de-munca/caut-loc-de-munca/">
+<span class="block link category-name">
+<span>Caut loc de munca</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1337" href="https://www.olx.ro/locuri-de-munca/confectii-croitori/">
+<span class="block link category-name">
+<span>Confectii - Croitori</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1321" href="https://www.olx.ro/locuri-de-munca/cosmeticieni-frizeri-saloane/">
+<span class="block link category-name">
+<span>Cosmeticieni - Frizeri - Saloane</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1325" href="https://www.olx.ro/locuri-de-munca/educatie-training/">
+<span class="block link category-name">
+<span>Educatie - Training</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1327" href="https://www.olx.ro/locuri-de-munca/evenimente-si-divertisment/">
+<span class="block link category-name">
+<span>Evenimente si divertisment</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="52" href="https://www.olx.ro/locuri-de-munca/finante-contabilitate/">
+<span class="block link category-name">
+<span>Finante - contabilitate</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1265" href="https://www.olx.ro/locuri-de-munca/ingineri-meseriasi-constructori/">
+<span class="block link category-name">
+<span>Ingineri - Meseriasi - Constructori</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1333" href="https://www.olx.ro/locuri-de-munca/internship-munca-temporara-sezoniera/">
+<span class="block link category-name">
+<span>Internship - Munca temporara - sezoniera</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1319" href="https://www.olx.ro/locuri-de-munca/it-telecomunicatii/">
+<span class="block link category-name">
+<span>IT - Telecomunicatii</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1339" href="https://www.olx.ro/locuri-de-munca/lucratori-comerciali/">
+<span class="block link category-name">
+<span>Lucratori comerciali</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1329" href="https://www.olx.ro/locuri-de-munca/lucratori-productie-depozit-logistica/">
+<span class="block link category-name">
+<span>Lucratori productie - depozit - logistica</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1313" href="https://www.olx.ro/locuri-de-munca/marketing-pr-media/">
+<span class="block link category-name">
+<span>Marketing - PR - Media</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="649" href="https://www.olx.ro/locuri-de-munca/munca-in-strainatate/">
+<span class="block link category-name">
+<span>Munca in strainatate</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1331" href="https://www.olx.ro/locuri-de-munca/paza-si-protectie/">
+<span class="block link category-name">
+<span>Paza si protectie</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1309" href="https://www.olx.ro/locuri-de-munca/personal-administrativ-secretariat/">
+<span class="block link category-name">
+<span>Personal administrativ - secretariat</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1269" href="https://www.olx.ro/locuri-de-munca/personal-hotelier-restaurant/">
+<span class="block link category-name">
+<span>Personal hotelier - restaurant</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1271" href="https://www.olx.ro/locuri-de-munca/personal-sanatate-infirmiere/">
+<span class="block link category-name">
+<span>Personal sanatate - Infirmiere</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1315" href="https://www.olx.ro/locuri-de-munca/resurse-umane/">
+<span class="block link category-name">
+<span>Resurse Umane</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="1267" href="https://www.olx.ro/locuri-de-munca/soferi-servicii-auto-curierat/">
+<span class="block link category-name">
+<span>Soferi - Servicii auto - Curierat</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-4 inlblk tdnone icon-link" data-category-id="4" data-id="56" href="https://www.olx.ro/locuri-de-munca/alte-locuri-de-munca/">
+<span class="block link category-name">
+<span>Alte locuri de munca</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="99" id="bottom99" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="99" href="https://www.olx.ro/electronice-si-electrocasnice/"><strong>Vezi toate anunturile</strong></a> în Electronice si electrocasnice				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="101" href="https://www.olx.ro/electronice-si-electrocasnice/telefoane-mobile/">
+<span class="block link category-name">
+<span>Telefoane</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="940" href="https://www.olx.ro/electronice-si-electrocasnice/accesorii-telefoane-tablete/">
+<span class="block link category-name">
+<span>Accesorii Telefoane - Tablete</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="741" href="https://www.olx.ro/electronice-si-electrocasnice/laptop-calculator/">
+<span class="block link category-name">
+<span>Laptop – Calculator</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="881" href="https://www.olx.ro/electronice-si-electrocasnice/tv-audio-video/">
+<span class="block link category-name">
+<span>TV - Audio - Video</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="282" href="https://www.olx.ro/electronice-si-electrocasnice/electrocasnice/">
+<span class="block link category-name">
+<span>Electrocasnice</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="916" href="https://www.olx.ro/electronice-si-electrocasnice/tablete/">
+<span class="block link category-name">
+<span>Tablete - eReadere</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="727" href="https://www.olx.ro/electronice-si-electrocasnice/camera-foto-video/">
+<span class="block link category-name">
+<span>Aparate Foto - Camere Video</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="93" href="https://www.olx.ro/electronice-si-electrocasnice/jocuri-console/">
+<span class="block link category-name">
+<span>Jocuri - Console</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="967" href="https://www.olx.ro/electronice-si-electrocasnice/gps-navigatie/">
+<span class="block link category-name">
+<span>GPS si sisteme de navigatie</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="732" href="https://www.olx.ro/electronice-si-electrocasnice/aparatura-dispozitive/">
+<span class="block link category-name">
+<span>Aparate medicale</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="451" href="https://www.olx.ro/electronice-si-electrocasnice/alte-dispozitive/">
+<span class="block link category-name">
+<span>Alte aparate electronice</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="901" href="https://www.olx.ro/servicii-afaceri-colaborari/reparatii-it-electronice-electro/">
+<span class="block link category-name">
+<span>Reparatii PC – Electronice – Electrocasnice</span>
+</span>
+<span class="color-1 block small">în Servicii, afaceri, echipamente firme</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="87" id="bottom87" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="87" href="https://www.olx.ro/moda-frumusete/"><strong>Vezi toate anunturile</strong></a> în Moda si frumusete				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="1081" href="https://www.olx.ro/moda-frumusete/haine-dama/">
+<span class="block link category-name">
+<span>Haine dama</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="1085" href="https://www.olx.ro/moda-frumusete/incaltaminte-dama/">
+<span class="block link category-name">
+<span>Incaltaminte dama</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="1087" href="https://www.olx.ro/moda-frumusete/incaltaminte-barbati/">
+<span class="block link category-name">
+<span>Incaltaminte barbati</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="1083" href="https://www.olx.ro/moda-frumusete/haine-barbati/">
+<span class="block link category-name">
+<span>Haine barbati</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="626" href="https://www.olx.ro/moda-frumusete/accesorii/">
+<span class="block link category-name">
+<span>Accesorii</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="401" href="https://www.olx.ro/moda-frumusete/bijuterii/">
+<span class="block link category-name">
+<span>Bijuterii</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-87 inlblk tdnone icon-link" data-category-id="87" data-id="406" href="https://www.olx.ro/moda-frumusete/cosmetice-parfumuri/">
+<span class="block link category-name">
+<span>Cosmetice - Parfumuri</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="777" href="https://www.olx.ro/servicii-afaceri-colaborari/servicii-infrumusetare/">
+<span class="block link category-name">
+<span>Servicii de infrumusetare</span>
+</span>
+<span class="color-1 block small">în Servicii, afaceri, echipamente firme</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="883" href="https://www.olx.ro/mama-si-copilul/haine-incaltaminte-copii-si-gravide/">
+<span class="block link category-name">
+<span>Haine - Incaltaminte copii si gravide</span>
+</span>
+<span class="color-1 block small">în Mama si copilul</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="628" id="bottom628" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="628" href="https://www.olx.ro/casa-gradina/"><strong>Vezi toate anunturile</strong></a> în Casa si gradina				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="891" href="https://www.olx.ro/casa-gradina/mobila-decoratiuni/">
+<span class="block link category-name">
+<span>Mobila - Decoratiuni</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="163" href="https://www.olx.ro/casa-gradina/gradina/">
+<span class="block link category-name">
+<span>Gradina</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="306" href="https://www.olx.ro/casa-gradina/materiale-constructii-amenajari/">
+<span class="block link category-name">
+<span>Materiale constructii si amenajari</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="1239" href="https://www.olx.ro/casa-gradina/termice-electrice-sanitare/">
+<span class="block link category-name">
+<span>Termice - Electrice - Sanitare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="1241" href="https://www.olx.ro/casa-gradina/unelte-scule-feronerie/">
+<span class="block link category-name">
+<span>Unelte - Scule - Feronerie</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-628 inlblk tdnone icon-link" data-category-id="628" data-id="1237" href="https://www.olx.ro/casa-gradina/articole-menaj/">
+<span class="block link category-name">
+<span>Articole menaj</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-maincategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="899" href="https://www.olx.ro/servicii-afaceri-colaborari/meseriasi-constructori/">
+<span class="block link category-name">
+<span>Meseriasi - Constructori</span>
+</span>
+<span class="color-1 block small">în Servicii, afaceri, echipamente firme</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="431" href="https://www.olx.ro/hobby-sport-turism/arta-antichitati/">
+<span class="block link category-name">
+<span>Arta - Obiecte de colectie</span>
+</span>
+<span class="color-1 block small">în Sport, timp liber, arta</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="282" href="https://www.olx.ro/electronice-si-electrocasnice/electrocasnice/">
+<span class="block link category-name">
+<span>Electrocasnice</span>
+</span>
+<span class="color-1 block small">în Electronice si electrocasnice</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="88" id="bottom88" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="88" href="https://www.olx.ro/mama-si-copilul/"><strong>Vezi toate anunturile</strong></a> în Mama si copilul				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="883" href="https://www.olx.ro/mama-si-copilul/haine-incaltaminte-copii-si-gravide/">
+<span class="block link category-name">
+<span>Haine - Incaltaminte copii si gravide</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="516" href="https://www.olx.ro/mama-si-copilul/carucioare-si-patuturi/">
+<span class="block link category-name">
+<span>La plimbare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="231" href="https://www.olx.ro/mama-si-copilul/jocuri-jucarii/">
+<span class="block link category-name">
+<span>Jocuri - Jucarii</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="885" href="https://www.olx.ro/mama-si-copilul/patuturi-mobilier/">
+<span class="block link category-name">
+<span>Camera copilului</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="751" href="https://www.olx.ro/mama-si-copilul/mancare-accesorii/">
+<span class="block link category-name">
+<span>Alimentatie - Ingrijire</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="1287" href="https://www.olx.ro/mama-si-copilul/articole-scolare-papetarie/">
+<span class="block link category-name">
+<span>Articole scolare - papetarie</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-88 inlblk tdnone icon-link" data-category-id="88" data-id="235" href="https://www.olx.ro/mama-si-copilul/diverse/">
+<span class="block link category-name">
+<span>Alte produse copii</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="97" id="bottom97" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="97" href="https://www.olx.ro/hobby-sport-turism/"><strong>Vezi toate anunturile</strong></a> în Sport, timp liber, arta				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="461" href="https://www.olx.ro/hobby-sport-turism/biciclete-fitness/">
+<span class="block link category-name">
+<span>Biciclete – Fitness - Suplimente</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="799" href="https://www.olx.ro/hobby-sport-turism/echipamente-sportive-si-turism/">
+<span class="block link category-name">
+<span>Echipamente sportive si de turism</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="431" href="https://www.olx.ro/hobby-sport-turism/arta-antichitati/">
+<span class="block link category-name">
+<span>Arta - Obiecte de colectie</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="903" href="https://www.olx.ro/hobby-sport-turism/carti-muzica-filme/">
+<span class="block link category-name">
+<span>Carti - Muzica - Filme</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-97 inlblk tdnone icon-link" data-category-id="97" data-id="460" href="https://www.olx.ro/hobby-sport-turism/evenimente-diverse/">
+<span class="block link category-name">
+<span>Evenimente - Divertisment</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-maincategory cat-3 inlblk tdnone icon-link" data-category-id="3" data-id="1235" href="https://www.olx.ro/imobiliare/cazare-turism/">
+<span class="block link category-name">
+<span>Cazare - Turism</span>
+</span>
+<span class="color-1 block small">în Imobiliare</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-maincategory cat-99 inlblk tdnone icon-link" data-category-id="99" data-id="93" href="https://www.olx.ro/electronice-si-electrocasnice/jocuri-console/">
+<span class="block link category-name">
+<span>Jocuri - Console</span>
+</span>
+<span class="color-1 block small">în Electronice si electrocasnice</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="103" id="bottom103" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="103" href="https://www.olx.ro/animale-de-companie/"><strong>Vezi toate anunturile</strong></a> în Animale de companie				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-103 inlblk tdnone icon-link" data-category-id="103" data-id="138" href="https://www.olx.ro/animale-de-companie/animale-de-companie/">
+<span class="block link category-name">
+<span>Caini, pisici</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-103 inlblk tdnone icon-link" data-category-id="103" data-id="272" href="https://www.olx.ro/animale-de-companie/servicii-accesorii/">
+<span class="block link category-name">
+<span>Servicii - Accesorii</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-103 inlblk tdnone icon-link" data-category-id="103" data-id="763" href="https://www.olx.ro/animale-de-companie/alte-animale/">
+<span class="block link category-name">
+<span>Alte animale de companie</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-maincategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1187" href="https://www.olx.ro/anunturi-agricole/animale-domestice-pasari/">
+<span class="block link category-name">
+<span>Animale domestice si pasari</span>
+</span>
+<span class="color-1 block small">în Agro si industrie</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="1183" id="bottom1183" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="1183" href="https://www.olx.ro/anunturi-agricole/"><strong>Vezi toate anunturile</strong></a> în Agro si industrie				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1185" href="https://www.olx.ro/anunturi-agricole/utilaje-agricole/">
+<span class="block link category-name">
+<span>Utilaje agricole si industriale</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1191" href="https://www.olx.ro/anunturi-agricole/alimentatie-produse-bio/">
+<span class="block link category-name">
+<span>Produse piata - alimentatie</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1189" href="https://www.olx.ro/anunturi-agricole/seminte-plante-pomi/">
+<span class="block link category-name">
+<span>Cereale - plante - pomi</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-1183 inlblk tdnone icon-link" data-category-id="1183" data-id="1187" href="https://www.olx.ro/anunturi-agricole/animale-domestice-pasari/">
+<span class="block link category-name">
+<span>Animale domestice si pasari</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="619" id="bottom619" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="619" href="https://www.olx.ro/servicii-afaceri-colaborari/"><strong>Vezi toate anunturile</strong></a> în Servicii, afaceri, echipamente firme				</div>
+<ul>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="897" href="https://www.olx.ro/servicii-afaceri-colaborari/servicii-auto-transporturi/">
+<span class="block link category-name">
+<span>Servicii Auto - Transporturi</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="899" href="https://www.olx.ro/servicii-afaceri-colaborari/meseriasi-constructori/">
+<span class="block link category-name">
+<span>Meseriasi - Constructori</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="901" href="https://www.olx.ro/servicii-afaceri-colaborari/reparatii-it-electronice-electro/">
+<span class="block link category-name">
+<span>Reparatii PC – Electronice – Electrocasnice</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="300" href="https://www.olx.ro/servicii-afaceri-colaborari/nunti-botezuri-evenimente/">
+<span class="block link category-name">
+<span>Nunti - Botezuri - Evenimente</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="711" href="https://www.olx.ro/servicii-afaceri-colaborari/cursuri-meditatii/">
+<span class="block link category-name">
+<span>Cursuri - Meditatii</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="179" href="https://www.olx.ro/servicii-afaceri-colaborari/publicitate-asigurari-it/">
+<span class="block link category-name">
+<span>Publicitate - Asigurari - IT</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="777" href="https://www.olx.ro/servicii-afaceri-colaborari/servicii-infrumusetare/">
+<span class="block link category-name">
+<span>Servicii de infrumusetare</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="131" href="https://www.olx.ro/servicii-afaceri-colaborari/contabilitate-traduceri/">
+<span class="block link category-name">
+<span>Contabilitate - Traduceri</span>
+</span>
+</a>
+</li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="1289" href="https://www.olx.ro/servicii-afaceri-colaborari/firme-echipamente-profesionale/">
+<span class="block link category-name">
+<span>Firme - Echipamente profesionale</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+<li class="fleft">
+<a class="link-relatedcategory cat-619 inlblk tdnone icon-link" data-category-id="619" data-id="776" href="https://www.olx.ro/servicii-afaceri-colaborari/firme-diverse/">
+<span class="block link category-name">
+<span>Servicii diverse</span>
+</span>
+</a>
+</li>
+<li class="clear"></li>
+</ul>
+</div><div class="subcategories-list clr" data-subcategory="div-gpt-ad-1452761765430-0" id="bottomdiv_virtual" style="display:none">
+<div class="subcategories-title">
+<a class="courier-categories-link hidden" href="#" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank">
+<img class="courier-categories-img" src="https://s2.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web-olxro/static/svg/courier_categories_icon.svg"/>
+</a>
+<a class="link inlblk" data-id="div_virtual" href=""><strong>Vezi toate anunturile</strong></a> în 				</div>
+<ul>
+</ul>
+</div>
+0 Autoturisme #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+1 Autoutilitare https://www.olx.ro/auto-masini-moto-ambarcatiuni/
+2 Camioane - Rulote - Remorci https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme/
+3 Motociclete - Scutere - ATV https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoutilitare/
+4 Piese - Accesorii https://www.olx.ro/auto-masini-moto-ambarcatiuni/camioane-utilaje-rulote-remorci/
+5 Ambarcatiuni https://www.olx.ro/auto-masini-moto-ambarcatiuni/motociclete-scutere-atv/
+6 GPS si sisteme de navigatie https://www.olx.ro/auto-masini-moto-ambarcatiuni/piese-accesorii/
+7 Servicii Auto - Transporturi https://www.olx.ro/auto-masini-moto-ambarcatiuni/ambarcatiuni/
+8 Utilaje agricole si industriale https://www.olx.ro/electronice-si-electrocasnice/gps-navigatie/
+9 Apartamente - Garsoniere de vanzare https://www.olx.ro/servicii-afaceri-colaborari/servicii-auto-transporturi/
+10 Apartamente - Garsoniere de inchiriat https://www.olx.ro/anunturi-agricole/utilaje-agricole/
+11 Case de vanzare #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+12 Case de inchiriat https://www.olx.ro/imobiliare/
+13 Terenuri https://www.olx.ro/imobiliare/apartamente-garsoniere-de-vanzare/
+14 Birouri - Spatii comerciale https://www.olx.ro/imobiliare/apartamente-garsoniere-de-inchiriat/
+15 Schimburi Imobiliare https://www.olx.ro/imobiliare/case-de-vanzare/
+16 Cazare - Turism https://www.olx.ro/imobiliare/case-de-inchiriat/
+17 Alte proprietati https://www.olx.ro/imobiliare/terenuri/
+18 Agenti - consultanti vanzari https://www.olx.ro/imobiliare/birouri-spatii-comerciale/
+19 Agricultura - Zootehnie https://www.olx.ro/imobiliare/schimburi-imobiliare/
+20 Bone - Menajere https://www.olx.ro/imobiliare/cazare-turism/
+21 Call center - Suport clienti https://www.olx.ro/imobiliare/alte-proprietati/
+22 Caut loc de munca #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+23 Confectii - Croitori https://www.olx.ro/locuri-de-munca/
+24 Cosmeticieni - Frizeri - Saloane https://www.olx.ro/locuri-de-munca/vanzari/
+25 Educatie - Training https://www.olx.ro/locuri-de-munca/agricultura-zootehnie/
+26 Evenimente si divertisment https://www.olx.ro/locuri-de-munca/bone-menajere/
+27 Finante - contabilitate https://www.olx.ro/locuri-de-munca/call-center-suport-clienti/
+28 Ingineri - Meseriasi - Constructori https://www.olx.ro/locuri-de-munca/caut-loc-de-munca/
+29 Internship - Munca temporara - sezoniera https://www.olx.ro/locuri-de-munca/confectii-croitori/
+30 IT - Telecomunicatii https://www.olx.ro/locuri-de-munca/cosmeticieni-frizeri-saloane/
+31 Lucratori comerciali https://www.olx.ro/locuri-de-munca/educatie-training/
+32 Lucratori productie - depozit - logistica https://www.olx.ro/locuri-de-munca/evenimente-si-divertisment/
+33 Marketing - PR - Media https://www.olx.ro/locuri-de-munca/finante-contabilitate/
+34 Munca in strainatate https://www.olx.ro/locuri-de-munca/ingineri-meseriasi-constructori/
+35 Paza si protectie https://www.olx.ro/locuri-de-munca/internship-munca-temporara-sezoniera/
+36 Personal administrativ - secretariat https://www.olx.ro/locuri-de-munca/it-telecomunicatii/
+37 Personal hotelier - restaurant https://www.olx.ro/locuri-de-munca/lucratori-comerciali/
+38 Personal sanatate - Infirmiere https://www.olx.ro/locuri-de-munca/lucratori-productie-depozit-logistica/
+39 Resurse Umane https://www.olx.ro/locuri-de-munca/marketing-pr-media/
+40 Soferi - Servicii auto - Curierat https://www.olx.ro/locuri-de-munca/munca-in-strainatate/
+41 Alte locuri de munca https://www.olx.ro/locuri-de-munca/paza-si-protectie/
+42 Telefoane https://www.olx.ro/locuri-de-munca/personal-administrativ-secretariat/
+43 Accesorii Telefoane - Tablete https://www.olx.ro/locuri-de-munca/personal-hotelier-restaurant/
+44 Laptop – Calculator https://www.olx.ro/locuri-de-munca/personal-sanatate-infirmiere/
+45 TV - Audio - Video https://www.olx.ro/locuri-de-munca/resurse-umane/
+46 Electrocasnice https://www.olx.ro/locuri-de-munca/soferi-servicii-auto-curierat/
+47 Tablete - eReadere https://www.olx.ro/locuri-de-munca/alte-locuri-de-munca/
+48 Aparate Foto - Camere Video #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+49 Jocuri - Console https://www.olx.ro/electronice-si-electrocasnice/
+50 GPS si sisteme de navigatie https://www.olx.ro/electronice-si-electrocasnice/telefoane-mobile/
+51 Aparate medicale https://www.olx.ro/electronice-si-electrocasnice/accesorii-telefoane-tablete/
+52 Alte aparate electronice https://www.olx.ro/electronice-si-electrocasnice/laptop-calculator/
+53 Reparatii PC – Electronice – Electrocasnice https://www.olx.ro/electronice-si-electrocasnice/tv-audio-video/
+54 Haine dama https://www.olx.ro/electronice-si-electrocasnice/electrocasnice/
+55 Incaltaminte dama https://www.olx.ro/electronice-si-electrocasnice/tablete/
+56 Incaltaminte barbati https://www.olx.ro/electronice-si-electrocasnice/camera-foto-video/
+57 Haine barbati https://www.olx.ro/electronice-si-electrocasnice/jocuri-console/
+58 Accesorii https://www.olx.ro/electronice-si-electrocasnice/gps-navigatie/
+59 Bijuterii https://www.olx.ro/electronice-si-electrocasnice/aparatura-dispozitive/
+60 Cosmetice - Parfumuri https://www.olx.ro/electronice-si-electrocasnice/alte-dispozitive/
+61 Servicii de infrumusetare https://www.olx.ro/servicii-afaceri-colaborari/reparatii-it-electronice-electro/
+62 Haine - Incaltaminte copii si gravide #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+63 Mobila - Decoratiuni https://www.olx.ro/moda-frumusete/
+64 Gradina https://www.olx.ro/moda-frumusete/haine-dama/
+65 Materiale constructii si amenajari https://www.olx.ro/moda-frumusete/incaltaminte-dama/
+66 Termice - Electrice - Sanitare https://www.olx.ro/moda-frumusete/incaltaminte-barbati/
+67 Unelte - Scule - Feronerie https://www.olx.ro/moda-frumusete/haine-barbati/
+68 Articole menaj https://www.olx.ro/moda-frumusete/accesorii/
+69 Meseriasi - Constructori https://www.olx.ro/moda-frumusete/bijuterii/
+70 Arta - Obiecte de colectie https://www.olx.ro/moda-frumusete/cosmetice-parfumuri/
+71 Electrocasnice https://www.olx.ro/servicii-afaceri-colaborari/servicii-infrumusetare/
+72 Haine - Incaltaminte copii si gravide https://www.olx.ro/mama-si-copilul/haine-incaltaminte-copii-si-gravide/
+73 La plimbare #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+74 Jocuri - Jucarii https://www.olx.ro/casa-gradina/
+75 Camera copilului https://www.olx.ro/casa-gradina/mobila-decoratiuni/
+76 Alimentatie - Ingrijire https://www.olx.ro/casa-gradina/gradina/
+77 Articole scolare - papetarie https://www.olx.ro/casa-gradina/materiale-constructii-amenajari/
+78 Alte produse copii https://www.olx.ro/casa-gradina/termice-electrice-sanitare/
+79 Biciclete – Fitness - Suplimente https://www.olx.ro/casa-gradina/unelte-scule-feronerie/
+80 Echipamente sportive si de turism https://www.olx.ro/casa-gradina/articole-menaj/
+81 Arta - Obiecte de colectie https://www.olx.ro/servicii-afaceri-colaborari/meseriasi-constructori/
+82 Carti - Muzica - Filme https://www.olx.ro/hobby-sport-turism/arta-antichitati/
+83 Evenimente - Divertisment https://www.olx.ro/electronice-si-electrocasnice/electrocasnice/
+84 Cazare - Turism #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+85 Jocuri - Console https://www.olx.ro/mama-si-copilul/
+86 Caini, pisici https://www.olx.ro/mama-si-copilul/haine-incaltaminte-copii-si-gravide/
+87 Servicii - Accesorii https://www.olx.ro/mama-si-copilul/carucioare-si-patuturi/
+88 Alte animale de companie https://www.olx.ro/mama-si-copilul/jocuri-jucarii/
+89 Animale domestice si pasari https://www.olx.ro/mama-si-copilul/patuturi-mobilier/
+90 Utilaje agricole si industriale https://www.olx.ro/mama-si-copilul/mancare-accesorii/
+91 Produse piata - alimentatie https://www.olx.ro/mama-si-copilul/articole-scolare-papetarie/
+92 Cereale - plante - pomi https://www.olx.ro/mama-si-copilul/diverse/
+93 Animale domestice si pasari #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+94 Servicii Auto - Transporturi https://www.olx.ro/hobby-sport-turism/
+95 Meseriasi - Constructori https://www.olx.ro/hobby-sport-turism/biciclete-fitness/
+96 Reparatii PC – Electronice – Electrocasnice https://www.olx.ro/hobby-sport-turism/echipamente-sportive-si-turism/
+97 Nunti - Botezuri - Evenimente https://www.olx.ro/hobby-sport-turism/arta-antichitati/
+98 Cursuri - Meditatii https://www.olx.ro/hobby-sport-turism/carti-muzica-filme/
+99 Publicitate - Asigurari - IT https://www.olx.ro/hobby-sport-turism/evenimente-diverse/
+100 Servicii de infrumusetare https://www.olx.ro/imobiliare/cazare-turism/
+101 Contabilitate - Traduceri https://www.olx.ro/electronice-si-electrocasnice/jocuri-console/
+102 Firme - Echipamente profesionale #" onclick='window.open("https://www.olx.ro/livrare-cu-verificare/");return false;' target="_blank
+103 Servicii diverse https://www.olx.ro/animale-de-companie/
+
+Process finished with exit code 0
